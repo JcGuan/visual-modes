@@ -1,0 +1,6 @@
+to run:
+python3 visual_modes_pcs2vesta.py qm_111only.vib15top.properVIBatomsOrder.xyz vibmodes.xyz CuNONH2 True
+[1] .xyzfile storing the qm region with proper order of the vibrational active atoms at the very top
+[2] .xyz formated file storing vibmodes vectors corresponding to the vib atoms in [1]
+[3] name for the output
+[4] if it's or qmmm config or not (this code also used for molecules) 
